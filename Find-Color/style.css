@@ -1,0 +1,10 @@
+body{
+    margin:0;
+    text-align: center;
+}
+.color-box{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #eee;
+}
